@@ -11,8 +11,10 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/cloudalibaba-config-nacos-client3377/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-zuul-gateway9527/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-provider-sms8008/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
 </project>
